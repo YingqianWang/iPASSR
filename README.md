@@ -1,4 +1,4 @@
-#### PyTorch implementation of "Symmetric Parallax Attention for Stereo Image Super-Resolution", *arXiv 2020*.
+## PyTorch implementation of "*Symmetric Parallax Attention for Stereo Image Super-Resolution*", *arXiv 2020*.
 
 ## Overview
 <img src="https://raw.github.com/YingqianWang/iPASSR/main/Figs/Network.png" width="800"><br>
