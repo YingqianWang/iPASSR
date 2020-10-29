@@ -9,7 +9,7 @@
 * **Matlab (For training/test data generation and performance evaluation)**
 
 ## Download the Results
-**We share the results (`.txt` files for quantitative results and `.png` files for qualitative results) achieved by our iPASSR on all the test sets for both 2xSR and 4xSR. Then, one can compare his/her algorithm to iPASSR without performing inference or evaluation. Results are available at [Baidu Drive](https://pan.baidu.com/s/12R9ZxB78QL4suy8ZuJ88Uw) (Key: NUDT).**
+**We share the quantitative and qualitative results achieved by our iPASSR on all the test sets for both 2xSR and 4xSR. Then, researchers can compare their algorithms to our method without performing inference. Results are available at [Baidu Drive](https://pan.baidu.com/s/12R9ZxB78QL4suy8ZuJ88Uw) (Key: NUDT).**
 
 ## Train
 * **Download the training sets from [Baidu Drive](https://pan.baidu.com/s/173UGmmN0rtOUghIT40oy8w) (Key: NUDT) and unzip them to `./data/train/`.** 
@@ -43,4 +43,4 @@
 ```
 
 ## Contact
-**Any question regarding this work can be addressed to wangyingqian16@nudt.edu.cn.**
+**Any question regarding this work can be addressed to [wangyingqian16@nudt.edu.cn](wangyingqian16@nudt.edu.cn).**
