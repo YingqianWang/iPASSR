@@ -9,7 +9,9 @@
 * **Matlab (For training/test data generation and performance evaluation)**
 
 ## Train
-**Will be available soon.**
+* **Download the training sets from [Baidu Drive](https://pan.baidu.com/s/173UGmmN0rtOUghIT40oy8w) (Key: NUDT) and unzip them to `./data/train/`.** 
+* **Run `./data/train/GenerateTrainingPatches.m` to generate training patches.**
+* **Run `train.py` to perform training. Checkpoint will be saved to  `./log/`.
 
 ## Test
 * **Download the test sets and unzip them to `./data`. Here, we provide the full test sets used in our paper on [Baidu Drive](https://pan.baidu.com/s/1SIYGcMBEDDZ0wYrkxL9bnQ) (Key: NUDT).** 
