@@ -12,8 +12,7 @@
 **Will be available soon.**
 
 ## Test
-* **Download the test sets and unzip them to `./data`. Here, we provide the full test set on [Baidu Drive](https://pan.baidu.com/s/1LfopBUF_aKvfvUhSqA2Cew) (Key: NUDT) which is used in our paper.** 
-* **Download our pretrained models (<a href="https://wyqdatabase.s3-us-west-1.amazonaws.com/log.zip">log.zip</a>) and unzip them to `./log`.**
+* **Download the test sets and unzip them to `./data`. Here, we provide the full test sets used in our paper on [Baidu Drive](https://pan.baidu.com/s/1SIYGcMBEDDZ0wYrkxL9bnQ) (Key: NUDT).** 
 * **Run `test.py` to perform a demo inference. Results (`.png` files) will be saved to `./results`.**
 * **Run `evaluation.m` to calculate PSNR and SSIM scores.**
 
