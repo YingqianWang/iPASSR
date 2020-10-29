@@ -1,7 +1,7 @@
 #### PyTorch implementation of "Symmetric Parallax Attention for Stereo Image Super-Resolution", *arXiv 2020*.
 
 ## Overview
-<img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/Network.png" width="800"><br>
+<img src="https://raw.github.com/YingqianWang/iPASSR/Figs/Network.png" width="800"><br>
 #### Fig. 1: An overview of our network.
 
 ## Requirement
@@ -22,12 +22,12 @@
 * **Run `evaluation.m` to calculate PSNR and SSIM scores.**
 
 ## Quantitative Results
-<img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/Quantitative.png" width="1000"><br>
+<img src="https://raw.github.com/YingqianWang/iPASSR/Figs/Quantitative.png" width="1000"><br>
 <br>
 ## Qualitative Results
-<img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/2xSR.jpg" width="1000"><br>
-<img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/4xSR.jpg" width="1000"><br>
-<img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/RealSR.jpg" width="1000"><br>
+<img src="https://raw.github.com/YingqianWang/iPASSR/Figs/2xSR.jpg" width="1000"><br>
+<img src="https://raw.github.com/YingqianWang/iPASSR/Figs/4xSR.jpg" width="1000"><br>
+<img src="https://raw.github.com/YingqianWang/iPASSR/Figs/RealSR.jpg" width="1000"><br>
 **Please view our [demo video](https://wyqdatabase.s3-us-west-1.amazonaws.com/iPASSR_visual_comparison.mp4) for better visual comparison.**
 <br>
 
