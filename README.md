@@ -8,6 +8,9 @@
 * **PyTorch 1.3.0, torchvision 0.4.1. The code is tested with python=3.7, cuda=9.0.**
 * **Matlab (For training/test data generation and performance evaluation)**
 
+## Download the Results
+**We share the results (`.txt` files for quantitative results and `.png` files for qualitative results) achieved by our iPASSR on all the test sets for both 2xSR and 4xSR. Then, one can compare his/her algorithm to iPASSR without performing inference or evaluation. Results are available at [Baidu Drive](https://pan.baidu.com/s/12R9ZxB78QL4suy8ZuJ88Uw) (Key: NUDT).**
+
 ## Train
 * **Download the training sets from [Baidu Drive](https://pan.baidu.com/s/173UGmmN0rtOUghIT40oy8w) (Key: NUDT) and unzip them to `./data/train/`.** 
 * **Run `./data/train/GenerateTrainingPatches.m` to generate training patches.**
@@ -18,9 +21,6 @@
 * **Run `test.py` to perform a demo inference. Results (`.png` files) will be saved to `./results`.**
 * **Run `evaluation.m` to calculate PSNR and SSIM scores.**
 
-## Download the Results
-**We share the results (`.txt` files for quantitative results and `.png` files for qualitative results) achieved by our iPASSR on all the test sets for both 2xSR and 4xSR. Then, one can compare his/her algorithm to iPASSR without performing inference or evaluation. Results are available at [Baidu Drive](https://pan.baidu.com/s/12R9ZxB78QL4suy8ZuJ88Uw) (Key: NUDT)
-
 ## Quantitative Results
 <img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/Quantitative.png" width="1000"><br>
 <br>
@@ -28,7 +28,8 @@
 <img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/2xSR.jpg" width="1000"><br>
 <img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/4xSR.jpg" width="1000"><br>
 <img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/RealSR.jpg" width="1000"><br>
-
+**Please view our [demo video](https://wyqdatabase.s3-us-west-1.amazonaws.com/iPASSR_visual_comparison.mp4) for better visual comparison.**
+<br>
 
 ## Citiation
 **If you find this work helpful, please consider citing the following paper:**
