@@ -27,9 +27,9 @@
 <img src="https://raw.github.com/YingqianWang/iPASSR/main/Figs/Quantitative.png" width="1000"><br>
 <br>
 ## Qualitative Results
-<img src="https://raw.github.com/YingqianWang/iPASSR/main/Figs/2xSR.jpg" width="1000"><br>
-<img src="https://raw.github.com/YingqianWang/iPASSR/main/Figs/4xSR.jpg" width="1000"><br>
-<img src="https://raw.github.com/YingqianWang/iPASSR/main/Figs/RealSR.jpg" width="1000"><br>
+<img src="https://raw.github.com/YingqianWang/iPASSR/main/Figs/2xSR.png" width="1000"><br>
+<img src="https://raw.github.com/YingqianWang/iPASSR/main/Figs/4xSR.png" width="1000"><br>
+<img src="https://raw.github.com/YingqianWang/iPASSR/main/Figs/RealSR.png" width="1000"><br>
 **Please view our [demo video](https://wyqdatabase.s3-us-west-1.amazonaws.com/iPASSR_visual_comparison.mp4) for better visual comparison.**
 <br>
 
