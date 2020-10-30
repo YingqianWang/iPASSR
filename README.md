@@ -1,4 +1,4 @@
-# Symmetric Parallax Attention for Stereo Image Super-Resolution
+# Symmetric Parallax Attention for Stereo Image Super-Resolution, *arXiv 2020*.
 <br>
 
 ## Overview
