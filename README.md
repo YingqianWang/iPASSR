@@ -1,5 +1,4 @@
 # Symmetric Parallax Attention for Stereo Image Super-Resolution
-#### *Yingqian Wang, Xinyi Ying, Longguang Wang, Jungang Yang, Wei An, Yulan Guo*
 <br>
 
 ## Overview
