@@ -1,5 +1,5 @@
-## Symmetric Parallax Attention for Stereo Image Super-Resolution, *arXiv 2020*.
-
+# Symmetric Parallax Attention for Stereo Image Super-Resolution
+#### *Yingqian Wang, Xinyi Ying, Longguang Wang, Jungang Yang, Wei An, Yulan Guo*
 
 ## Overview
 <img src="https://raw.github.com/YingqianWang/iPASSR/main/Figs/Network.png" width="800"><br>
