@@ -3,16 +3,16 @@
 
 ## Overview
 <img src="https://raw.github.com/YingqianWang/iPASSR/main/Figs/Network.png" width="800"><br>
-#### Fig. 1: An overview of our network.
-
-## Requirement
-* **PyTorch 1.3.0, torchvision 0.4.1. The code is tested with python=3.7, cuda=9.0.**
-* **Matlab (For training/test data generation and performance evaluation)**
 
 ## Download the Results
 **We share the quantitative and qualitative results achieved by our iPASSR on all the test sets for both 2xSR and 4xSR. Then, researchers can compare their algorithms to our method without performing inference. Results are available at [Baidu Drive](https://pan.baidu.com/s/12R9ZxB78QL4suy8ZuJ88Uw) (Key: NUDT).**
 
 ## PyTorch Implementation
+
+### Requirement
+* **PyTorch 1.3.0, torchvision 0.4.1. The code is tested with python=3.7, cuda=9.0.**
+* **Matlab (For training/test data generation and performance evaluation)**
+
 ### Train
 * **Download the training sets from [Baidu Drive](https://pan.baidu.com/s/173UGmmN0rtOUghIT40oy8w) (Key: NUDT) and unzip them to `./data/train/`.** 
 * **Run `./data/train/GenerateTrainingPatches.m` to generate training patches.**
