@@ -7,7 +7,7 @@
 
 ## Download the Results
 **We share the quantitative and qualitative results achieved by our iPASSR on all the test sets for both 2xSR and 4xSR. Then, researchers can compare their algorithms to our method without performing inference. Results are available at [Baidu Drive](https://pan.baidu.com/s/12R9ZxB78QL4suy8ZuJ88Uw) (Key: NUDT).**
-<br>
+<br><br>
 
 ## PyTorch Implementation
 
