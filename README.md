@@ -37,12 +37,11 @@
 <br>
 
 ## Citiation
-**If you find this work helpful, please consider citing the following paper:**
 ```
 @artical{iPASSR,
   author    = {Wang, Yingqian and Ying, Xinyi and Wang, Longguang and Yang, Jungang and An, Wei and Guo, Yulan},
   title     = {Symmetric Parallax Attention for Stereo Image Super-Resolution},
-  journal = {arXiv Preprint},
+  journal   = {arXiv Preprint},
   year      = {2020},
 }
 ```
