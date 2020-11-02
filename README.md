@@ -30,7 +30,7 @@
 <img src="https://raw.github.com/YingqianWang/iPASSR/main/Figs/Quantitative.png" width="1000"><br>
 <br>
 
-## Qualitative Results [demo video](https://wyqdatabase.s3-us-west-1.amazonaws.com/iPASSR_visual_comparison.mp4)
+## Qualitative Results ([demo video](https://wyqdatabase.s3-us-west-1.amazonaws.com/iPASSR_visual_comparison.mp4))
 <img src="https://raw.github.com/YingqianWang/iPASSR/main/Figs/2xSR.png" width="1000"><br>
 <img src="https://raw.github.com/YingqianWang/iPASSR/main/Figs/4xSR.png" width="1000"><br>
 <img src="https://raw.github.com/YingqianWang/iPASSR/main/Figs/RealSR.png" width="1000"><br>
