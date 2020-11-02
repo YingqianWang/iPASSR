@@ -36,6 +36,10 @@
 <img src="https://raw.github.com/YingqianWang/iPASSR/main/Figs/RealSR.png" width="1000"><br>
 <br>
 
+## Benefits to Disparity Estimation
+<img src="https://raw.github.com/YingqianWang/iPASSR/main/Figs/Disp.png" width="1000"><br>
+<br>
+
 ## Citiation
 ```
 @artical{iPASSR,
