@@ -1,4 +1,4 @@
-# Symmetric Parallax Attention for Stereo Image Super-Resolution, *arXiv 2020*.
+## Symmetric Parallax Attention for Stereo Image Super-Resolution, [*arXiv 2020*](https://arxiv.org/pdf/2011.03802.pdf).
 <br>
 
 ## Overview
@@ -45,7 +45,7 @@
 @artical{iPASSR,
   author    = {Wang, Yingqian and Ying, Xinyi and Wang, Longguang and Yang, Jungang and An, Wei and Guo, Yulan},
   title     = {Symmetric Parallax Attention for Stereo Image Super-Resolution},
-  journal   = {arXiv Preprint},
+  journal   = {arXiv Preprint: 2011.03802},
   year      = {2020},
 }
 ```
