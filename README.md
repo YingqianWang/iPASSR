@@ -2,7 +2,7 @@
 <br>
 
 ## Overview
-<img src="https://raw.github.com/YingqianWang/iPASSR/main/Figs/Network.png" width="800"><br>
+<img src="Figs/Network.png" width="800"><br>
 <br>
 
 ## Download the Results
@@ -27,17 +27,17 @@
 <br>
 
 ## Quantitative Results
-<img src="https://raw.github.com/YingqianWang/iPASSR/main/Figs/Quantitative.png" width="1000"><br>
+<img src="Figs/Quantitative.png" width="1000"><br>
 <br>
 
 ## Qualitative Results ([demo video](https://wyqdatabase.s3-us-west-1.amazonaws.com/iPASSR_visual_comparison.mp4))
-<img src="https://raw.github.com/YingqianWang/iPASSR/main/Figs/2xSR.png" width="1000"><br>
-<img src="https://raw.github.com/YingqianWang/iPASSR/main/Figs/4xSR.png" width="1000"><br>
-<img src="https://raw.github.com/YingqianWang/iPASSR/main/Figs/RealSR.png" width="1000"><br>
+<img src="Figs/2xSR.png" width="1000"><br>
+<img src="Figs/4xSR.png" width="1000"><br>
+<img src="Figs/RealSR.png" width="1000"><br>
 <br>
 
 ## Benefits to Disparity Estimation
-<img src="https://raw.github.com/YingqianWang/iPASSR/main/Figs/Disp.png" width="1000"><br>
+<img src="Figs/Disp.png" width="1000"><br>
 <br>
 
 ## Citiation
