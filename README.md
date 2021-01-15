@@ -1,8 +1,4 @@
-## Symmetric Parallax Attention for Stereo Image Super-Resolution, [*arXiv 2020*](https://arxiv.org/pdf/2011.03802.pdf).
-<br>
-
-## Overview
-<img src="Figs/Network.png" width="800"><br>
+### Symmetric Parallax Attention for Stereo Image Super-Resolution, [*arXiv 2020*](https://arxiv.org/pdf/2011.03802.pdf), [demo video](https://wyqdatabase.s3-us-west-1.amazonaws.com/iPASSR_visual_comparison.mp4).
 <br>
 
 ## Download the Results
@@ -24,20 +20,6 @@
 * **Download the test sets and unzip them to `./data`. Here, we provide the full test sets used in our paper on [Baidu Drive](https://pan.baidu.com/s/1SIYGcMBEDDZ0wYrkxL9bnQ) (Key: NUDT).** 
 * **Run `test.py` to perform a demo inference. Results (`.png` files) will be saved to `./results`.**
 * **Run `evaluation.m` to calculate PSNR and SSIM scores.**
-<br>
-
-## Quantitative Results
-<img src="Figs/Quantitative.png" width="1000"><br>
-<br>
-
-## Qualitative Results ([demo video](https://wyqdatabase.s3-us-west-1.amazonaws.com/iPASSR_visual_comparison.mp4))
-<img src="Figs/2xSR.png" width="1000"><br>
-<img src="Figs/4xSR.png" width="1000"><br>
-<img src="Figs/RealSR.png" width="1000"><br>
-<br>
-
-## Benefits to Disparity Estimation
-<img src="Figs/Disp.png" width="1000"><br>
 <br>
 
 ## Citiation
