@@ -1,5 +1,5 @@
 ## *Symmetric Parallax Attention for Stereo Image Super-Resolution, arXiv 2020.* [**[*pdf*]**](https://arxiv.org/pdf/2011.03802.pdf), [**[*demo*]**](https://wyqdatabase.s3-us-west-1.amazonaws.com/iPASSR_visual_comparison.mp4).
-***<center><a href="https://yingqianwang.github.io/homepage" target="_blank">Yingqian Wang</a>&emsp;&emsp; Xinyi Ying&emsp;&emsp; Longguang Wang&emsp;&emsp; Jungang Yang&emsp;&emsp; Wei An&emsp;&emsp; <a href="http://yulanguo.me/" target="_blank">Yulan Guo</a></center>*** <br>
+***<center><a href="https://yingqianwang.github.io" target="_blank">Yingqian Wang</a>&emsp;&emsp; Xinyi Ying&emsp;&emsp; Longguang Wang&emsp;&emsp; Jungang Yang&emsp;&emsp; Wei An&emsp;&emsp; <a href="http://yulanguo.me/" target="_blank">Yulan Guo</a></center>*** <br>
  <br><br>
 
 ### Download the Results
