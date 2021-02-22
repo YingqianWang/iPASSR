@@ -1,12 +1,8 @@
-## *Symmetric Parallax Attention for Stereo Image Super-Resolution, arXiv 2020.* [**[*pdf*]**](https://arxiv.org/pdf/2011.03802.pdf), [**[*demo*]**](https://wyqdatabase.s3-us-west-1.amazonaws.com/iPASSR_visual_comparison.mp4).
-***<center><a href="https://yingqianwang.github.io" target="_blank">Yingqian Wang</a>&emsp;&emsp; Xinyi Ying&emsp;&emsp; Longguang Wang&emsp;&emsp; Jungang Yang&emsp;&emsp; Wei An&emsp;&emsp; <a href="http://yulanguo.me/" target="_blank">Yulan Guo</a></center>*** <br>
- <br><br>
+### PyTorch implementation of "Symmetric Parallax Attention for Stereo Image Super-Resolution", <a href="https://arxiv.org/pdf/2011.03802.pdf">arXiv 2020</a>, <a href="https://wyqdatabase.s3-us-west-1.amazonaws.com/iPASSR_visual_comparison.mp4">Demo Video</a>.
 
 ### Download the Results
 **We share the quantitative and qualitative results achieved by our iPASSR on all the test sets for both 2xSR and 4xSR. Then, researchers can compare their algorithms to our method without performing inference. Results are available at [Baidu Drive](https://pan.baidu.com/s/1w8RtQau2RoY89jsFvMCStw) (Key: NUDT).**
 <br><br>
-
-### PyTorch Implementation
 
 #### Requirement
 * **PyTorch 1.3.0, torchvision 0.4.1. The code is tested with python=3.7, cuda=9.0.**
