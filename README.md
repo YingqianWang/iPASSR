@@ -19,7 +19,7 @@
 * **Run `test.py` to perform a demo inference. Results (`.png` files) will be saved to `./results`.**
 * **Run `evaluation.m` to calculate PSNR and SSIM scores.**
 
-### Some Recources of the Compared Methods
+### Some Recources
 * **The 2x and 4x models of EDSR, RDN and RCAN retrained on stereo image datasets can be downloaded at [Baidu Drive](https://pan.baidu.com/s/1GrKi8taYnEColKz_wa5f4w) (Key: NUDT).**
 
 
