@@ -28,8 +28,8 @@
 @article{iPASSR,
   author    = {Wang, Yingqian and Ying, Xinyi and Wang, Longguang and Yang, Jungang and An, Wei and Guo, Yulan},
   title     = {Symmetric Parallax Attention for Stereo Image Super-Resolution},
-  journal   = {arXiv Preprint: 2011.03802},
-  year      = {2020},
+  journal   = {IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)},
+  year      = {2021},
 }
 ```
 
