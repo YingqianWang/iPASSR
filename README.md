@@ -35,11 +35,12 @@
 * **Run `test.py` to perform a demo inference. Results (`.png` files) will be saved to `./results`.**
 * **Run `evaluation.m` to calculate PSNR and SSIM scores.**
 
-## Some Recources
-* **The 2x and 4x models of EDSR, RDN and RCAN retrained on stereo image datasets can be downloaded at [Baidu Drive](https://pan.baidu.com/s/1GrKi8taYnEColKz_wa5f4w) (Key: NUDT).**
-
+## Some Useful Recources
+* **The 2x/4x models of EDSR/RDN/RCAN retrained on stereo image datasets. [Baidu Drive](https://pan.baidu.com/s/1GrKi8taYnEColKz_wa5f4w) (Key: NUDT).**
+* **Original results of StereoSR.
 
 ## Citiation
+**We hope this work can facilitate the future research in stereo image SR. If you find this work helpful, please consider citing:**
 ```
 @article{iPASSR,
   author    = {Wang, Yingqian and Ying, Xinyi and Wang, Longguang and Yang, Jungang and An, Wei and Guo, Yulan},
@@ -50,4 +51,4 @@
 ```
 
 ## Contact
-**Any question regarding this work can be addressed to [wangyingqian16@nudt.edu.cn](wangyingqian16@nudt.edu.cn).**
+**Any question regarding this work can be addressed to [wangyingqian16@nudt.edu.cn](wangyingqian16@nudt.edu.cn) and [yingxinyi18@nudt.edu.cn](yingxinyi18@nudt.edu.cn).**
