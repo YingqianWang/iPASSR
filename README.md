@@ -1,7 +1,18 @@
 # iPASSR
 PyTorch implementation of "*Symmetric Parallax Attention for Stereo Image Super-Resolution*", NTIRE workshop at CVPR 2021. [<a href="https://arxiv.org/pdf/2011.03802.pdf">pdf</a>], [<a href="https://wyqdatabase.s3-us-west-1.amazonaws.com/iPASSR_visual_comparison.mp4">demo video</a>].<br><br>
 
-<p align="center"> <img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/Network.jpg" width="100%"></p>
+## *Contributions of this paper:*
+* **We develop a Siamese network equipped with a bi-directional PAM to super-resolve both left and right images.**
+  <p align="center"> <img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/Network.jpg" width="100%"></p><br>
+
+* **We propose an inline occlusion handling scheme to deduce occlusions from parallax attention maps.**
+  <p align="center"> <img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/Occlusion.jpg" width="60%"></p>
+
+* **We design several illuminance-robust losses to enhance stereo consistency.**
+  <p align="center"> <img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/ResLoss.jpg" width="100%"></p>
+
+*  **Our iPASSR can achieve significant performance improvements over PASSRnet with a comparable model size.**
+  <p align="center"> <img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/Quantitative.jpg" width="100%"></p>
 
 ### Download the Results
 **We share the quantitative and qualitative results achieved by our iPASSR on all the test sets for both 2xSR and 4xSR. Then, researchers can compare their algorithms to our method without performing inference. Results are available at [Baidu Drive](https://pan.baidu.com/s/1w8RtQau2RoY89jsFvMCStw) (Key: NUDT).**
