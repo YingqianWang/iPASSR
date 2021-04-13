@@ -3,16 +3,18 @@ PyTorch implementation of "*Symmetric Parallax Attention for Stereo Image Super-
 
 ## *Contributions of this paper:*
 #### 1. We develop a Siamese network equipped with a bi-directional PAM to super-resolve both left and right images.
-  <p align="center"> <img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/Network.jpg" width="100%"></p>
+  <p align="center"> <img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/Network.png" width="100%"></p>
   
 #### 2. We propose an inline occlusion handling scheme to deduce occlusions from parallax attention maps.
-  <p align="center"> <img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/Occlusion.jpg" width="60%"></p>
+  <p align="center"><img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/OcclusionDeduce.png" width="40%"><img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/OcclusionMask.png" width="55%"></p>
   
-#### 3. We design several illuminance-robust losses to enhance stereo consistency.
-  <p align="center"> <img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/ResLoss.jpg" width="100%"></p>
+#### 3. We design several illuminance-robust losses to enhance stereo consistency. [[demo video](https://wyqdatabase.s3-us-west-1.amazonaws.com/iPASSR_illuminance_change.mp4)]
+  <p align="center"> <img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/ResLoss.png" width="100%"></p>
   
 #### 4.  Our iPASSR can achieve significant performance improvements over PASSRnet with a comparable model size.
-  <p align="center"> <img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/Quantitative.jpg" width="100%"></p>
+  <p align="center"> <img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/Quantitative.png" width="100%"></p>
+  <p align="center"> <img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/2xSR.png" width="100%"></p>
+  <p align="center"> <img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/4xSR.png" width="100%"></p>
 
 ### Download the Results
 **We share the quantitative and qualitative results achieved by our iPASSR on all the test sets for both 2xSR and 4xSR. Then, researchers can compare their algorithms to our method without performing inference. Results are available at [Baidu Drive](https://pan.baidu.com/s/1w8RtQau2RoY89jsFvMCStw) (Key: NUDT).**
