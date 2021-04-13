@@ -1,4 +1,5 @@
-### PyTorch implementation of "*Symmetric Parallax Attention for Stereo Image Super-Resolution*", <a href="https://arxiv.org/pdf/2011.03802.pdf">pdf</a>, <a href="https://wyqdatabase.s3-us-west-1.amazonaws.com/iPASSR_visual_comparison.mp4">demo video</a>.<br><br>
+# iPASSR
+PyTorch implementation of "*Symmetric Parallax Attention for Stereo Image Super-Resolution*", NTIRE workshop at CVPR 2021. [<a href="https://arxiv.org/pdf/2011.03802.pdf">pdf</a>], [<a href="https://wyqdatabase.s3-us-west-1.amazonaws.com/iPASSR_visual_comparison.mp4">demo video</a>].<br><br>
 
 <img src="./Figs/Network.jpg" width="1000">
 
