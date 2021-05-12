@@ -36,9 +36,9 @@
 * **Run `evaluation.m` to calculate PSNR and SSIM scores.**
 
 ## Some Useful Recources
-* **The 2x/4x models of EDSR/RDN/RCAN retrained on stereo image datasets. [Baidu Drive](https://pan.baidu.com/s/1GrKi8taYnEColKz_wa5f4w) (Key: NUDT).**
-* **The 2x/4x results of StereoSR. [Google Drive](https://drive.google.com/file/d/1nt6uBhyze0Cx0VdI3O7PsxN51qZNqIKd/view?usp=sharing) and [Baidu Drive](https://pan.baidu.com/s/1E_w0BHeaNzjQEyc22To5FQ) (Key: NUDT).**
-* **The 4x results of SRRes+SAM. [Google Drive](https://drive.google.com/file/d/1uOM-LUDandK2lX9p2mknc_J1C81Zbn8e/view?usp=sharing) and [Baidu Drive](https://pan.baidu.com/s/1KIr0v1XfBPPQR-MEMTUbwg) (Key: NUDT).**
+* **The 2x/4x models of EDSR/RDN/RCAN retrained on stereo image datasets. [Google Drive](https://drive.google.com/drive/folders/1ovN_O34qTToI6jiaL69T1_vlHv2jwu0f?usp=sharing), [Baidu Drive](https://pan.baidu.com/s/1GrKi8taYnEColKz_wa5f4w) (Key: NUDT).**
+* **The 2x/4x results of StereoSR. [Google Drive](https://drive.google.com/file/d/1nt6uBhyze0Cx0VdI3O7PsxN51qZNqIKd/view?usp=sharing), [Baidu Drive](https://pan.baidu.com/s/1E_w0BHeaNzjQEyc22To5FQ) (Key: NUDT).**
+* **The 4x results of SRRes+SAM. [Google Drive](https://drive.google.com/file/d/1uOM-LUDandK2lX9p2mknc_J1C81Zbn8e/view?usp=sharing), [Baidu Drive](https://pan.baidu.com/s/1KIr0v1XfBPPQR-MEMTUbwg) (Key: NUDT).**
 
 ## Citiation
 **We hope this work can facilitate the future research in stereo image SR. If you find this work helpful, please consider citing:**
