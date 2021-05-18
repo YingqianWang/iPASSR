@@ -52,4 +52,4 @@
 ```
 
 ## Contact
-**Any question regarding this work can be addressed to [wangyingqian16@nudt.edu.cn](wangyingqian16@nudt.edu.cn) and [yingxinyi18@nudt.edu.cn](yingxinyi18@nudt.edu.cn).**
+**Any question regarding this work can be addressed to [wangyingqian16@nudt.edu.cn](wangyingqian16@nudt.edu.cn).**
