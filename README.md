@@ -1,18 +1,18 @@
 # iPASSR
-## PyTorch implementation of "Symmetric Parallax Attention for Stereo Image Super-Resolution", [CVPRW 2021](https://arxiv.org/pdf/2011.03802.pdf).<br>
+### PyTorch implementation of "Symmetric Parallax Attention for Stereo Image Super-Resolution", [CVPRW 2021](https://arxiv.org/pdf/2011.03802.pdf).<br>
 
-## *Highlights:*
-#### 1. *We develop a Siamese network equipped with a bi-directional PAM to super-resolve both left and right images.*
+## Highlights:
+#### 1. We develop a Siamese network equipped with a bi-directional PAM to super-resolve both left and right images.
   <p align="center"> <img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/Network.png" width="100%"></p>
   
-#### 2. *We propose an inline occlusion handling scheme to deduce occlusions from parallax attention maps.*
+#### 2. We propose an inline occlusion handling scheme to deduce occlusions from parallax attention maps.
   <p align="center"><img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/OcclusionDeduce.png" width="40%"><img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/OcclusionMask.png" width="55%"></p>
   
-#### 3. *We design several illuminance-robust losses to enhance stereo consistency.*
+#### 3. We design several illuminance-robust losses to enhance stereo consistency.
   <p align="center"> <a href="https://wyqdatabase.s3-us-west-1.amazonaws.com/iPASSR_illuminance_change.mp4"><img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/Video-illuminance.png" width="100%"></a></p><br>
   <p align="center"> <img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/ResLoss.png" width="100%"></p>
   
-#### 4. *Our iPASSR significantly outperforms PASSRnet with a comparable model size.*
+#### 4. Our iPASSR significantly outperforms PASSRnet with a comparable model size.
   <p align="center"> <img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/Quantitative.png" width="100%"></p>
   <p align="center"> <img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/2xSR.png" width="100%"></p>
   <p align="center"> <img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/4xSR.png" width="100%"></p>
