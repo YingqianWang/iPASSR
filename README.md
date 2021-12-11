@@ -1,5 +1,5 @@
 # iPASSR
-**PyTorch implementation of "*Symmetric Parallax Attention for Stereo Image Super-Resolution*", NTIRE workshop at CVPR 2021 (oral). [<a href="https://arxiv.org/pdf/2011.03802.pdf">pdf</a>], [<a href="https://wyqdatabase.s3-us-west-1.amazonaws.com/iPASSR_visual_comparison.mp4">demo video</a>].**<br><br>
+## PyTorch implementation of "Symmetric Parallax Attention for Stereo Image Super-Resolution", [CVPRW 2021](https://arxiv.org/pdf/2011.03802.pdf).<br>
 
 ## *Highlights:*
 #### 1. *We develop a Siamese network equipped with a bi-directional PAM to super-resolve both left and right images.*
@@ -8,7 +8,8 @@
 #### 2. *We propose an inline occlusion handling scheme to deduce occlusions from parallax attention maps.*
   <p align="center"><img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/OcclusionDeduce.png" width="40%"><img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/OcclusionMask.png" width="55%"></p>
   
-#### 3. *We design several illuminance-robust losses to enhance stereo consistency.* [[demo video](https://wyqdatabase.s3-us-west-1.amazonaws.com/iPASSR_illuminance_change.mp4)]
+#### 3. *We design several illuminance-robust losses to enhance stereo consistency.* [[demo video]()]
+  <p align="center"> <a href="https://wyqdatabase.s3-us-west-1.amazonaws.com/iPASSR_illuminance_change.mp4"><img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/video-illuminance.png" width="100%"></a> </p><br>
   <p align="center"> <img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/ResLoss.png" width="100%"></p>
   
 #### 4. *Our iPASSR significantly outperforms PASSRnet with a comparable model size.*
@@ -16,6 +17,7 @@
   <p align="center"> <img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/2xSR.png" width="100%"></p>
   <p align="center"> <img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/4xSR.png" width="100%"></p>
   <p align="center"> <img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/RealSR.png" width="100%"></p>
+  <p align="center"> <a href="https://wyqdatabase.s3-us-west-1.amazonaws.com/iPASSR_visual_comparison.mp4"><img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/video-iPASSR" width="100%"></a> </p><br>
 
 ## Download the Results
 **We share the quantitative and qualitative results achieved by our iPASSR on all the test sets for both 2xSR and 4xSR. Then, researchers can compare their algorithms to our method without performing inference. Results are available at [Google Drive](https://drive.google.com/file/d/1LKe86Cet8LFRG-mgG9oYAJlyiJljDJb0/view?usp=sharing) and [Baidu Drive](https://pan.baidu.com/s/1w8RtQau2RoY89jsFvMCStw) (Key: NUDT).**
