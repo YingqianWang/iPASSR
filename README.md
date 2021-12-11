@@ -17,7 +17,7 @@
   <p align="center"> <img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/2xSR.png" width="100%"></p>
   <p align="center"> <img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/4xSR.png" width="100%"></p>
   <p align="center"> <img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/RealSR.png" width="100%"></p>
-  <p align="center"> <a href="https://wyqdatabase.s3-us-west-1.amazonaws.com/iPASSR_visual_comparison.mp4"><img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/Video-iPASSR" width="100%"></a></p><br>
+  <p align="center"> <a href="https://wyqdatabase.s3-us-west-1.amazonaws.com/iPASSR_visual_comparison.mp4"><img src="https://raw.github.com/YingqianWang/iPASSR/master/Figs/Video-iPASSR.png" width="100%"></a></p><br>
 
 ## Download the Results
 **We share the quantitative and qualitative results achieved by our iPASSR on all the test sets for both 2xSR and 4xSR. Then, researchers can compare their algorithms to our method without performing inference. Results are available at [Google Drive](https://drive.google.com/file/d/1LKe86Cet8LFRG-mgG9oYAJlyiJljDJb0/view?usp=sharing) and [Baidu Drive](https://pan.baidu.com/s/1w8RtQau2RoY89jsFvMCStw) (Key: NUDT).**
